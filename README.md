@@ -31,3 +31,4 @@ Explore and analyze the students data to see how the length of stay (stay) impac
 | `toas`          | Total score of acculturative stress (ASISS test) |
 
 ## `Solution`
+[sql_notebook_solution](https://github.com/jberouise2/Project-Analyzing-Students-Mental-Health/blob/352bc2ebbc24ac13d2b588821f21a33f8f942223/notebook.ipynb)
